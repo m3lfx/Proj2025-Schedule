@@ -1,43 +1,51 @@
-matabile pitogo
-navasca orlanda
-baguis dioso
-barredo coronado
-co maik
-datang morales
-miranda pili
-hernandez pabalan
-balatucan ocampo
-asino tan
-bayani cedro haboc
-aristain caisip
-tianzon de leon
-benitez roduta
-estanes llegado
-agustin padilla
-capuno bernales
-agregado villanueva
-tomon belenzo
-aguila rebamba
-acuesta opiz
-gallardo lanuza
-carutcho arboleda
-pagayunan torres
-eclavia gentile
-espares nariz
-bellen canas
-olorga ordonez
-barasi reblinca
-balbin banania
-pilar marquez
-primavera tumpap
-cadao denum
-macaroncio ladignon
-loreca ongaria
-de sagun turallo
-espinar navos
-cabarles terrobias
-calvo valdez
-barliso brutas
-cervantes dizon
+ ITIM130 - Fundamentals of Database Systems 
+ Project Presentation Schedule
+August 4 - 8 7.30am onwards.
 
+Term test written exam on August 7 8.00am as scheduled
+take your term exam on other subjects first before the project presentation.
 
+if a member of the group is absent, you cannot proceed with the presentation.
+do not be late. deductions will be made to the total score if your group is late.
+
+1. acuesta opiz
+2. capuno bernales
+3. bayani cedro haboc
+4. balatucan ocampo
+5. espares nariz
+6. aristain caisip
+7. benitez roduta
+8. pilar marquez
+9. baguis dioso
+10. navasca orlanda
+11. estanes llegado
+12. datang morales
+13. macaroncio ladignon
+14. loreca ongaria
+15. cabarles terrobias
+16. cadao denum
+17. gallardo lanuza
+18. miranda pili
+19. eclavia gentile
+20. tomon belenzo
+21. aguila rebamba
+22. primavera tumpap
+23. barliso brutas
+24. carutcho arboleda
+25. balbin banania
+26. cervantes dizon
+27. barasi reblinca
+28. agregado villanueva
+29. bellen canas
+30. pagayunan torres
+31. calvo valdez
+32. de sagun turallo
+33. tianzon de leon
+34. barredo coronado
+35. hernandez pabalan
+36. co maik
+37. matabile pitogo
+38. asino tan
+39. agustin padilla
+40. olorga ordonez
+41. espinar navos
